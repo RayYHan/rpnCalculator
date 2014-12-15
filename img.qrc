@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>folex.png</file>
+        <file>icon.png</file>
+        <file>close.png</file>
+        <file>appicon.png</file>
+    </qresource>
+</RCC>
